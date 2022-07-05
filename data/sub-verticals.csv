@@ -1,0 +1,53 @@
+ID,VERTICAL_CD,SUB_VERTICAL_CD,SUB_VERTICAL_NM
+00001,01,001,Banking
+00002,01,002,Investment
+00003,01,003,Insurance
+00004,01,004,Tax and Accounting
+00005,01,005,Real Estate
+00006,02,001,Movies
+00007,02,002,Television
+00008,02,003,Music
+00009,02,004,Publishing
+00010,02,005,Radio
+00011,02,006,Internet
+00012,02,007,Advertising
+00013,02,008,Gaming
+00014,03,001,Biotechnology
+00015,03,002,Pharmaceuticals
+00016,03,003,Medical Devices
+00017,03,004,Contract Reseach Organizations
+00018,03,005,Health Care Services and Facilities
+00019,03,006,Medical Insurance, Medical Services, and Managed Care
+00020,04,001,Convenience Stores
+00021,04,002,Grocery Stores
+00022,04,003,Specialty Retailers
+00023,04,004,Clothing Stores
+00024,04,005,Auto Retailers
+00025,04,006,Home Furnishing Retailers
+00026,04,007,Drug Stores
+00027,04,008,Department Stores
+00028,04,009,Super Markets
+00029,04,010,Discount Stores
+00030,04,011,Multichannel Stores
+00031,04,012,Catalog and E-Commerce Stores
+00032,04,013,Food and Beverage Products
+00033,04,014,Household and Personal Care Products
+00034,04,015,Consumer Health Products
+00035,04,016,Apparel Products
+00036,04,017,Restaurant Products
+00037,05,001,Water
+00038,05,002,Sewage Services
+00039,05,003,Electricity
+00040,05,004,Dams
+00041,05,005,Natural Gas
+00042,06,001,Supply Chain Management
+00043,06,002,Product Development
+00044,06,003,Collaboration
+00045,07,001,Federal
+00046,07,002,State and Local
+00047,07,003,Education
+00048,07,004,NGOs
+00049,08,001,Software and Services
+00050,08,002,Hardware and Equipment
+00051,08,003,Semiconductors
+00052,09,001,Other or Unknown

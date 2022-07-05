@@ -1,0 +1,24 @@
+ID,COMPETITOR_CD,COMPETITOR_NM
+00001,001,Other or Unknown
+00002,002,Amazon EMR
+00003,003,Amazon SageMaker
+00004,004,Amazon Redshift
+00005,005,Azure Synapse
+00006,006,Azure Machine Learning
+00007,007,Microsoft Snowflake Surround
+00008,008,Google BigQuery
+00009,009,Google Cloud Dataproc
+00010,010,Google Dataflow
+00011,011,Snowflake
+00012,012,DataRobot
+00013,013,Dataiku
+00014,014,Qubole
+00015,015,SAS
+00016,016,Cloudera
+00017,017,EDW Migration
+00018,018,Spark OSS
+00019,019,Hudi
+00020,020,Iceberg
+00021,021,Palantir
+00022,022,C3,ai
+00023,023,Starburst

@@ -1,0 +1,49 @@
+ID,VERTICAL_CD,USE_CASE_CD,USE_CASE_NM
+00001,01,01,Fraud Detection
+00002,01,02,Decision Suppport
+00003,01,03,Compliance
+00004,01,04,Risk Management
+00005,01,05,Customer Relationship Management
+00006,01,06,Other or Unknown
+00007,02,01,Fulfillment
+00008,02,02,Decision Support
+00009,02,03,R&D
+00010,02,04,Resource Optimization
+00011,02,05,Customer Relationship Management
+00012,03,06,Other or Unknown
+00013,03,01,Scheduling
+00014,03,02,Decision Support
+00015,03,03,R&D
+00016,03,04,Resource Optimization
+00017,03,05,Customer Relationship Management
+00018,03,06,Other or Unknown
+00019,04,01,Advertising
+00020,04,02,Decision Support
+00021,04,03,R&D
+00022,04,04,Logistics
+00023,04,05,Customer Relationship Management
+00024,04,06,Other or Unknown
+00025,05,01,Advertising
+00026,05,02,Decision Support
+00027,05,03,R&D
+00028,05,04,Logistics
+00029,05,05,Customer Relationship Management
+00030,05,06,Other or Unknown
+00031,06,01,Factory Operations
+00032,06,02,Decision Support
+00033,06,03,R&D
+00034,06,04,Logistics
+00035,06,05,Customer Relationship Management
+00036,06,06,Other or Unknown
+00037,07,01,Budget and Planning
+00038,07,02,Decision Support
+00039,07,03,Analytics
+00040,07,04,Logistics
+00041,07,05,Customer Relationship Management
+00042,07,06,Other or Unknown
+00043,08,01,Program Management
+00044,08,02,Decision Support
+00045,08,03,Analytics
+00046,08,04,Partner Relationship Management
+00047,08,05,Customer Relationship Management
+00048,08,06,Other or Unknown
