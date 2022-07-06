@@ -4,6 +4,7 @@ ID,VERTICAL_CD,SUB_VERTICAL_CD,SUB_VERTICAL_NM
 00003,01,003,Insurance
 00004,01,004,Tax and Accounting
 00005,01,005,Real Estate
+10052,01,006,Other or Unknown
 00006,02,001,Movies
 00007,02,002,Television
 00008,02,003,Music
@@ -12,12 +13,14 @@ ID,VERTICAL_CD,SUB_VERTICAL_CD,SUB_VERTICAL_NM
 00011,02,006,Internet
 00012,02,007,Advertising
 00013,02,008,Gaming
+20052,02,009,Other or Unknown
 00014,03,001,Biotechnology
 00015,03,002,Pharmaceuticals
 00016,03,003,Medical Devices
 00017,03,004,Contract Reseach Organizations
 00018,03,005,Health Care Services and Facilities
-00019,03,006,Medical Insurance, Medical Services, and Managed Care
+00019,03,006,Medical Insurance Medical Services and Managed Care
+30052,03,007,Other or Unknown
 00020,04,001,Convenience Stores
 00021,04,002,Grocery Stores
 00022,04,003,Specialty Retailers
@@ -35,19 +38,24 @@ ID,VERTICAL_CD,SUB_VERTICAL_CD,SUB_VERTICAL_NM
 00034,04,015,Consumer Health Products
 00035,04,016,Apparel Products
 00036,04,017,Restaurant Products
+40052,04,018,Other or Unknown
 00037,05,001,Water
 00038,05,002,Sewage Services
 00039,05,003,Electricity
 00040,05,004,Dams
 00041,05,005,Natural Gas
+50052,05,006,Other or Unknown
 00042,06,001,Supply Chain Management
 00043,06,002,Product Development
 00044,06,003,Collaboration
+60052,06,004,Other or Unknown
 00045,07,001,Federal
 00046,07,002,State and Local
 00047,07,003,Education
 00048,07,004,NGOs
+70052,07,005,Other or Unknown
 00049,08,001,Software and Services
 00050,08,002,Hardware and Equipment
 00051,08,003,Semiconductors
+80052,08,004,Other or Unknown
 00052,09,001,Other or Unknown
